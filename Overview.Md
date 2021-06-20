@@ -65,3 +65,7 @@ Toda a base historica de alunos da DIO
 ## Graficos
 
 Experiencia enriquecida com gráficos mostrando a evolução do aluno em XP, Reputação.
+
+### Compartilhamento em redes sociais
+
+Permite que o aluno compartilhe sua pagina resumo em redes sociais, objetivando maior visibilidade e evoluçao de carreira.
