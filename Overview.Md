@@ -36,13 +36,14 @@ Tornando o jogo mais empolgante cada subgrupo sera dividido em 3 subgrupos.
 
 Sendo que esta classificação será calculada através do cálculo da interação do aluno a saber:
 
-•	**Sociabilidade** : pontuação obtida no cálculo entre Followers e Followings e amigos convidados a inscrever-se na plataforma
-•	**Técnica** : pontuação entre os cursos inscritos e cursos terminados
-•	**Pericia** : pontuação entre os desafios de código e projetos entregues
-•	**Participação** : pontuação entre os Bootcamps inscritos e concluídos, acelerações inscritas e concluídas.
-•	**Reputação** : pontuação obtida devida a participação nos fóruns e publicação de artigos.
-•	**Antiguidade** : tempo de permanência na plataforma
-•	**XP** : corrente do aluno
+-	**Sociabilidade** : pontuação obtida no cálculo entre Followers e Followings 
+-	**Expansao** : pontos de amigos convidados a inscrever-se na plataforma
+-	**Técnica** : pontuação entre os cursos inscritos e cursos terminados
+-	**Pericia** : pontuação entre os desafios de código e projetos entregues
+-	**Participação** : pontuação entre os Bootcamps inscritos e concluídos, acelerações inscritas e concluídas.
+-	**Reputação** : pontuação obtida devida a participação nos fóruns e publicação de artigos.
+-	**Antiguidade** : tempo de permanência na plataforma
+-	**XP** : corrente do aluno
 
 Em conjunto a estes cálculos serão exibidas estatísticas para o aluno saber melhor sobre sua evolução, as trilhas que participa e o caminho seguido até o momento.
 
@@ -51,5 +52,16 @@ Em conjunto a estes cálculos serão exibidas estatísticas para o aluno saber m
 #### Criar classificação por Estado exibindo posição
 	Posiçao no ranking estadual 
 
-Enriquecido com gráficos mostrando a evolução do aluno em XP, Reputação 
+#### Classificaçao por Bootcamp
+	XP dentro do Bootcamp
+	
+#### Classificaçao por Linguagem de programaçao
+	Skill Habilidades
 
+## Universo
+
+Toda a base historica de alunos da DIO
+
+## Graficos
+
+Experiencia enriquecida com gráficos mostrando a evolução do aluno em XP, Reputação.
