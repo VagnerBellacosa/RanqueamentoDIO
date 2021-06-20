@@ -24,4 +24,18 @@ Criar espaço de venda para anunciantes
  
 Aumentar o publico e aumentar a taxa de permanencia
 
-[Overview do Projeto](https://github.com/VagnerBellacosa/RanqueamentoDIO/blob/main/Overview.Md)
+# Atividades (to do, in progress, is done)
+
+:heavy_check_mark: [Overview do Projeto](https://github.com/VagnerBellacosa/RanqueamentoDIO/blob/main/Overview.Md)
+
+:construction: Origem e destino dos dados
+
+:construction: Parametros de ranqueamento
+
+:construction: Novos badges e bonus
+
+:construction: Formula de ranking
+
+:construction: Estimativa de dados e trafego
+
+:construction: Base de Dados- Thesaurum
