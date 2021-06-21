@@ -1,4 +1,5 @@
 # BADGES
+
 O processo de gamificação implica a adoção e atribuição de prêmios aos participantes, oferecendo vantagens invejáveis por outros jogadores. Obrigando maior empenho para conseguir avançar e ganhar mais e subir no ranking.
 Pensando nisso e inspirado em inúmeros jogos existentes e mesmo no sistema de bônus da Microsoft, sugiro a criação dos seguintes Badges.
 
@@ -14,7 +15,7 @@ Incentivo a convidar amigos externos a plataforma, divulgando ainda mais os curs
 | Nível 4| O super-amigão | convide 101 amigos | 40 pontos XP|
 | Nível 5| O rei dos amigos| convide 501 amigos | 50 pontos XP|
 
-## Badge Seguidores / Follower s
+## Badge Seguidores / Followers
 
 Incentivo ao relacionamento interno na plataforma, convidando os participantes a interagirem entre si e criarem vinculados mais profundos.
 
@@ -26,7 +27,7 @@ Incentivo ao relacionamento interno na plataforma, convidando os participantes a
 | Nível 4| Um cara que lidera  | Ganhe 501 seguidores |40 pontos XP|
 | Nível 5| Um mestre | Ganhe 1001 seguidores |50 pontos XP|
 
-## Badge Seguidindo / Following
+## Badge Seguindo / Following
 
 Incentivo ao relacionamento interno na plataforma, convidando os participantes a interagirem entre si e criarem vinculados mais profundos e criando conversas mais animadas e construtivas.
 
@@ -62,5 +63,53 @@ Aquele que participa enriquece a dinâmica e torna-se um exemplo a ser seguido.
 | Nível 4|  aquele que contribui | 2501 pontos de reputação |40 pontos XP|
 | Nível 5| um mestre do saber  | 5001 pontos de reputação |50 pontos XP|
 
+## Bootcamps
 
+Incentiva a participar e concluir Bootcamps
+
+| Reputação | Titulo | Atribuição | Premio |
+|---|---|---| ---|
+| Nível 1 | recruta  | concluiu o 1° Bootcamp  |20 pontos  XP|
+| Nível 2 | soldado | conclui o 10° Bootcamp |30 pontos XP |
+| Nível 3|  cabo | conclui o 25° Bootcamp |40 pontos XP|
+| Nível 4|  sargento | conclui o 50° Bootcamp |40 pontos XP|
+| Nível 5| tenente  | conclui o 100° Bootcamp |50 pontos XP|
+
+## Projetos
+
+Projetos entregues na plataforma
+
+| Reputação | Titulo | Atribuição | Premio |
+|---|---|---| ---|
+| Nível 1 | projetista estagiario  | entregou um projeto  |20 pontos  XP|
+| Nível 2 | projetista trainner | entregou 25 projetos |30 pontos XP |
+| Nível 3|  projetista junior | entregou 50 projetos |40 pontos XP|
+| Nível 4|  projetista pleno | entregou 100 projetos |40 pontos XP|
+| Nível 5| projetista senior | entregou 500 projetos |50 pontos XP|
+
+## Trilhas
+
+Incentiva a cursar todos os modulos de formaçao
+
+| Reputação | Titulo | Atribuição | Premio |
+|---|---|---| ---|
+| Expert C# | Mestre em  C#  | Concluiu toda a trilha do  C#  | 50 pontos  XP|
+| Expert PHP | Mestre em  PHP  | Concluiu toda a trilha de PHP  | 50 pontos  XP|
+| Expert Java | Mestre em  Java  | Concluiu toda a trilha de Java  | 50 pontos  XP|
+| Expert JavaScript | Mestre em  JavaScript  | Concluiu toda a trilha de JavaScript  | 50 pontos  XP|
+| Expert Python | Mestre em  Python  | Concluiu toda a trilha de Python  | 50 pontos  XP|
+
+etc ...
+
+## DIO Pro
+
+Incentiva a assinar o serviço PRO
+
+| Reputação | Titulo | Atribuição | Premio |
+|---|---|---| ---|
+| Pro 15 | Mestre em  C#  | Completa 15 dias assinatura PRO  | 10 pontos  XP|
+| Pro 100 | Mestre em  PHP  | Completa 100 dias assinatura PRO  | 20 pontos  XP|
+| Pro 240 | Mestre em  Java  | Completa 240 dias assinatura PRO  | 30 pontos  XP|
+| Pro 480 | Mestre em  JavaScript  | Completa 480 dias assinatura PRO  | 40 pontos  XP|
+| Pro 720 | Mestre em  Python  | Completa 720 dias assinatura PRO  | 50 pontos  XP|
 
