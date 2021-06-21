@@ -26,7 +26,7 @@ Aumentar o publico e aumentar a taxa de permanencia
 
 # Atividades (to do, in progress, is done)
 
-:heavy_check_mark: [Overview do Projeto](https://github.com/VagnerBellacosa/RanqueamentoDIO/blob/main/Overview.Md)
+:heavy_check_mark: [Overview do Projeto](Overview.Md)
 
 :construction: Origem e destino dos dados
 
