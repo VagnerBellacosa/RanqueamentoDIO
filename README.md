@@ -32,7 +32,7 @@ Aumentar o publico e aumentar a taxa de permanencia
 
 :construction: Parametros de ranqueamento
 
-:construction: Novos badges e bonus
+:heavy_check_mark: [Novos badges e bonus](Badges.Md)
 
 :construction: Formula de ranking
 
