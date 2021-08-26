@@ -1,0 +1,3 @@
+# O que é um badge?
+
+Um badge é um símbolo ou um indicador de uma realização, habilidade, qualidade ou interesse. Um "badge digital" é um registro online de uma dessas conquistas, monitorado por uma comunidade em que o beneficiário tenha interagido e obtido o emblema, bem como o trabalho feito para obtê-lo. Badges digitais podem favorece ambientes de ensino conectados, motivando o ensino e sinalizando conquistas tanto dentro das comunidades especificas, bem como entre as comunidades e instituições. (Fonte: [Erin Knight's White Paper](http://bit.ly/EKwhitepaper))
